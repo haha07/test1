@@ -21,3 +21,7 @@ app.get('/world.html',function(req,res){
 server.listen(8000, function(){
 	console.log('port'+server.address().port);
 });
+
+
+
+/*dkdkdkdkd*/
